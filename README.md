@@ -5,7 +5,7 @@
 ---
 
 #### DAY:1 [What is DevOps?](https://blog.kennisjpeg.co/what-is-devops)
-#### DAY:2 [What is YAML](https://blog.kennisjpeg.co/what-is-devops)
+#### DAY:2 [What is YAML?](https://blog.kennisjpeg.co/what-is-devops)
 
 <br><br><br>
 
