@@ -6,6 +6,8 @@
 
 #### DAY:1 [What is DevOps?](https://blog.kennisjpeg.co/what-is-devops)
 #### DAY:2 [What is YAML?](https://blog.kennisjpeg.co/what-is-devops)
+#### DAY:3 [What is GraphQL?](https://blog.kennisjpeg.co/what-is-graphql)
+
 
 <br><br><br>
 
