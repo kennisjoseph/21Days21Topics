@@ -12,6 +12,7 @@
 #### DAY:6 [What is Jenkins?](https://blog.kennisjpeg.co/what-is-jenkins)
 #### DAY:7 [What is GitHub Action?](https://blog.kennisjpeg.co/what-is-github-action)
 #### DAY:8 [What is ThreeJS?](https://blog.kennisjpeg.co/what-is-threejs)
+#### DAY:9 [What is Data Structures?](https://blog.kennisjpeg.co/what-is-data-structures)
 
 
 
