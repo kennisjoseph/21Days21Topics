@@ -13,6 +13,7 @@
 #### DAY:7 [What is GitHub Action?](https://blog.kennisjpeg.co/what-is-github-action)
 #### DAY:8 [What is ThreeJS?](https://blog.kennisjpeg.co/what-is-threejs)
 #### DAY:9 [What is Data Structures?](https://blog.kennisjpeg.co/what-is-data-structures)
+#### DAY:10[What is Algorithms?](https://blog.kennisjpeg.co/what-is-algorithm)
 
 
 
@@ -20,7 +21,7 @@
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 The list will continue untill 21days are complete.......
 
