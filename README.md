@@ -14,6 +14,8 @@
 #### DAY:8 [What is ThreeJS?](https://blog.kennisjpeg.co/what-is-threejs)
 #### DAY:9 [What is Data Structures?](https://blog.kennisjpeg.co/what-is-data-structures)
 #### DAY:10 [What is Algorithms?](https://blog.kennisjpeg.co/what-is-algorithm)
+#### DAY:11 [50 Linux commands](https://blog.kennisjpeg.co/50-linux-commands)
+
 
 
 
