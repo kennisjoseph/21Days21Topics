@@ -16,6 +16,7 @@
 #### DAY:10 [What is Algorithms?](https://blog.kennisjpeg.co/what-is-algorithm)
 #### DAY:11 [50 Linux commands](https://blog.kennisjpeg.co/50-linux-commands)
 #### DAY:12 [What is ReactJS?](https://blog.kennisjpeg.co/what-is-react)
+#### DAY:13 [What is Virtual Machines?](https://blog.kennisjpeg.co/what-is-virtual-machine)
 
 
 
@@ -25,7 +26,8 @@
 
 
 
-<br><br><br><br>
+
+<br><br><br>
 
 The list will continue untill 21days are complete.......
 
