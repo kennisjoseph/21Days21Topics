@@ -17,6 +17,8 @@
 #### DAY:11 [50 Linux commands](https://blog.kennisjpeg.co/50-linux-commands)
 #### DAY:12 [What is ReactJS?](https://blog.kennisjpeg.co/what-is-react)
 #### DAY:13 [What is Virtual Machines?](https://blog.kennisjpeg.co/what-is-virtual-machine)
+#### DAY:14 [What is Stack?](https://blog.kennisjpeg.co/what-is-stack)
+
 
 
 
