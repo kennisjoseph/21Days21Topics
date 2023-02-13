@@ -19,7 +19,7 @@
 #### DAY:13 [What is Virtual Machines?](https://blog.kennisjpeg.co/what-is-virtual-machine)
 #### DAY:14 [What is Stack?](https://blog.kennisjpeg.co/what-is-stack)
 #### DAY:15 [What is Queue?](https://blog.kennisjpeg.co/what-is-queue)
-#### DAY:16 [What is Heap?](https://blog.kennisjpeg.co/what-is-queue)
+#### DAY:16 [What is Heap?](https://blog.kennisjpeg.co/what-is-heap)
 
 
 
